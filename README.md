@@ -17,7 +17,8 @@ The task would complete with both Create API and Fetch API.
 
 
 2. In what way would you be a great addition to the team? In other words, tell us anything about yourself that you’d like us to know.
-> I love to spend my time in the ocean and surf with friends on weekends. 
+> The experience I had at Telcom requires finding the root cause of the issue, and solve the issue critically under high pressure, and explaining the logic that everyone can understand. 
+The experience I had in web development can bring modern web development. 
 
 
 3. What do you like to do outside of work? Hobbies, side projects, etc
